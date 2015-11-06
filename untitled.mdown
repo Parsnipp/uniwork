@@ -1,0 +1,11 @@
+#Introduction
+
+I am studying the usability of smartwatches to find out how easy it is for new or inexperienced users to learn to use them.
+The objective is to see if new or inexperienced users can learn to use a smartwatch easily and if they are unable to then why not, and
+also if they would consider using them in their daily lives and reasons for and against them, in an attempt to determine if they are hard 
+to use or if they are just not very useful in day to day use of smartphones.
+
+topic: usability of smartwatches between new users
+rationale: help businesses understand why users do/don't buy smartwatches in relation to features or overall usefulness
+practical solutions: find out why this is
+benefits: businesses can see why people buy smartwatches so they can better angle their marketing/use of technology to take advantage of this
